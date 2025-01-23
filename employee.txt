@@ -1,0 +1,12 @@
+Name     Emp-ID  Age
+Lucy     202201  35
+Dany     202202  40
+David    202203  38
+Clara    202204  45
+Jill     202205  43
+Jorge    202206  42
+Sam      202207  41
+Zody     202208  49
+Larry    202209  50
+Barry    202210  66
+EOL
